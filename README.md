@@ -30,7 +30,7 @@ Management currently does not have a clear view of how total sales are distribut
 
 This lack of clarity makes it difficult for management to understand the current sales landscape, determine performance and effectively communicate strategies for sales growth.
 
-### Analysis Objective
+### Analysis Objectives
 As a data analyst, your task is to use descriptive analytics to summarize and present WHAT is happening in the sales data. Specifically, the objectives are to: 
 - Determine the total sales generated in the dataset.
 - Show how total sales are distributed by product and category.
