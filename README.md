@@ -87,7 +87,7 @@ Here are some insights from this analysis
 - The company revenue relies heavily of Electronic products, which is followed by office items
 - Sales were mainly generated from the younger age groups of 18 - 37 years
 - Males customers influenced a higher revenue of ₦125,400,000 compared to females who influenced a revenue of ₦52,100,000
-- Lagos and port harcourt locations generated higher revenues of 62,700,000 individually
+- Lagos and Port Harcourt locations generated higher revenues of 62,700,000 individually
 - Sales in Lagos and Port Harcourt were were influenced my the male gender while those in Enugu and Kano, were influenced by the female gender
 - Walk-in and online saled had higher influene on sales, with Walking sales taking the lead
 
