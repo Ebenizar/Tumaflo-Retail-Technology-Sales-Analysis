@@ -93,7 +93,7 @@ Here are some insights from this analysis
 
 ### Business Recommendation
 As a recommendation 
-- Noting that the business growth is heavily dependent on sales of Electronics products and office equipment with a revenue generation of 139.5M, and 37M respectively. The company should invest more in these items to sustain revenue
+- With the high sales generation from Electronic and office items, this implies that the business growth is heavily dependent on sales of these products. The company should invest more in these items to sustain revenue
 - We also noticed Higher revenue generation from the younger age groups of 18-27 and 28-37. As a Business strategy, marketing ads should be channeled, or targeted at these age groups for maximum impact and ROI. Targeted Social media channels can be utilized
 
 To make up for lower sales of Accessories, we can 
