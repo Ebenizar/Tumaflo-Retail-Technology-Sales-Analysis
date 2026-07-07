@@ -1,4 +1,5 @@
 # Tumaflo-Retail-Technology-Sales-Analysis
+<img width="1333" height="900" alt="Tumaflo Sales Dashboard" src="https://github.com/user-attachments/assets/a8de5588-31d0-48c6-a83c-015d0b603436" />
 
 ### Table Of Content
 [Background](#background)
